@@ -1,0 +1,38 @@
+# Compiled class files
+*.class
+
+# Data storage files (may contain sensitive pet owner information)
+pet_records.txt
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.classpath
+.settings/
+*.iml
+
+# Build and output directories
+out/
+bin/
+target/
+*.jar
+*.war
+*.ear
+
+# Gradle and Maven
+.gradle/
+.m2/
+
+# Local environment files
+*.log
+*.env
+.env.local
+
+# OS-specific files
+Thumbs.db
+.DS_Store
